@@ -197,6 +197,7 @@ body {
     height: 100%;*/
 	    width: 21cm;
     height: 29.7cm;
+	margin : 0;
     /*background-color: #303D46;*/
 	font-family: Ubuntu, sans-serif;
 }
