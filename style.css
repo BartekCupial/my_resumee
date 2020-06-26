@@ -24,7 +24,7 @@ header .subtitle {
 }
 
 .col-3-6 .container {
-    padding-top: 30px;
+    padding-top: 25px;
 }
 
 .section .title {
@@ -147,7 +147,7 @@ header .subtitle {
 }
 
 .container {
-    padding: 20px 15px 20px 30px;
+    padding: 10px 15px 10px 30px;
 }
 
 .bar {
@@ -195,7 +195,7 @@ footer {
 body {
    /* width: 100%;
     height: 100%;*/
-	    width: 21cm;
+    width: 21cm;
     height: 29.7cm;
 	margin : 0;
     /*background-color: #303D46;*/
