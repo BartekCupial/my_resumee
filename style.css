@@ -41,6 +41,10 @@ header .subtitle {
     font-weight: 650;
 }
 
+.last {
+    margin-bottom: 0px;
+}
+
 .icon {
     /* object-fit: cover; */
     /* object-position: 50% 50%; */
