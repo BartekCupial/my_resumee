@@ -1,7 +1,7 @@
 * {transition: none !important}
 
 header {
-    height: 13.636%;
+    /* height: 13.636%; */
     width: 100%;
     background-color: #374458;
     color: #FFFFFF;
@@ -19,9 +19,9 @@ header .subtitle {
 
 
 br {
-    display: block; /* makes it have a width */
-    content: ""; /* clears default height */
-    margin-top: 10px; /* change this to whatever height you want it */
+    display: block;
+    content: "";
+    margin-top: 10px;
 }
 
 .content {
@@ -194,7 +194,7 @@ footer {
     width: 100%;
     font-style: italic;
     color: #A3A3A3;
-    font-size: 15px;
+    font-size: 12px;
 }
 
 .lul {
